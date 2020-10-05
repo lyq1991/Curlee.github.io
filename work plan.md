@@ -1,4 +1,4 @@
-# <center>20200911_Work plan_CL</center>
+20200911_Work plan_CL
 
 ### 1. 心得
 
